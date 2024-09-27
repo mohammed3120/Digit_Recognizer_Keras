@@ -7,5 +7,4 @@
 ## pip install -r requirements.txt
 #### ------------------------------
 
-# Word Cloud
 ![Word Cloud](digits/digits.png)
